@@ -1,4 +1,2 @@
-# BirthdayCLI
-Keep track of birthdays!
-
-In progress! Will be done soon!
+# bday
+Keep track of birthdays from your terminal!
